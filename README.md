@@ -1,0 +1,2 @@
+# gptc
+about the college
